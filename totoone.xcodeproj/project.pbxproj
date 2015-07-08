@@ -15,7 +15,6 @@
 		B9B0E9451B4D674400868A1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9B0E9431B4D674400868A1F /* LaunchScreen.storyboard */; };
 		B9B0E9501B4D674400868A1F /* totooneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B0E94F1B4D674400868A1F /* totooneTests.swift */; };
 		B9B0E95B1B4D674400868A1F /* totooneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B0E95A1B4D674400868A1F /* totooneUITests.swift */; };
-		B9B0E96B1B4D6A6500868A1F /* lslsl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B0E96A1B4D6A6500868A1F /* lslsl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		B9B0E9561B4D674400868A1F /* totooneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = totooneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9B0E95A1B4D674400868A1F /* totooneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = totooneUITests.swift; sourceTree = "<group>"; };
 		B9B0E95C1B4D674400868A1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B9B0E96A1B4D6A6500868A1F /* lslsl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lslsl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				B9B0E9431B4D674400868A1F /* LaunchScreen.storyboard */,
 				B9B0E9461B4D674400868A1F /* Info.plist */,
 				B9B0E93E1B4D674400868A1F /* totoone.xcdatamodeld */,
-				B9B0E96A1B4D6A6500868A1F /* lslsl.swift */,
 			);
 			path = totoone;
 			sourceTree = "<group>";
@@ -261,7 +258,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9B0E96B1B4D6A6500868A1F /* lslsl.swift in Sources */,
 				B9B0E93A1B4D674400868A1F /* ViewController.swift in Sources */,
 				B9B0E9381B4D674400868A1F /* AppDelegate.swift in Sources */,
 				B9B0E9401B4D674400868A1F /* totoone.xcdatamodeld in Sources */,
